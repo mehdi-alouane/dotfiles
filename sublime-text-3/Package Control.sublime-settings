@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"ayu",
+		"Babel",
+		"DocBlockr",
+		"DotENV",
+		"Emmet",
+		"Environment Settings",
+		"GitGutter",
+		"GTKDarkThemeVariantSetter",
+		"JavaScript Completions",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"Pug",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Cobalt2",
+		"Theme - One Dark",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"WakaTime"
+	]
+}
